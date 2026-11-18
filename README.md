@@ -17,11 +17,13 @@
 notebooks/
   01_Data_Preparation.ipynb
   02_Pilot_SVM.ipynb
+  03_Comparative_Feature_Selection_and_Stability.ipynb
 data/                 # generated data and split IDs; raw data excluded from Git
 results/              # output tables
 results/figures/      # plot images
 report/               # draft and final report
 README.md
+AI_Usage.md
 requirements.txt
 .gitignore
 ```
